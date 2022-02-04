@@ -1,44 +1,46 @@
 - 👋 Hi, I’m **Mert AYAR**
 ## I'm currently working on
-![Flutter](https://github.com/mertayaar/git_readme/blob/main/images/flutter.svg)
-![Dart](https://github.com/mertayaar/git_readme/blob/main/images/dart.svg)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Mobile Design (I'm currently learning)
-![Adobe XD](https://github.com/mertayaar/git_readme/blob/main/images/adobexd.svg)
-![Figma](https://github.com/mertayaar/git_readme/blob/main/images/figma.svg)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Databases
-![Sql](https://github.com/mertayaar/git_readme/blob/main/images/msq.svg)
-![Mysql](https://github.com/mertayaar/git_readme/blob/main/images/mysql.svg)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![FireBase]()
 
 ## Skills
-![C#](https://github.com/mertayaar/git_readme/blob/main/images/c%23.svg)
-![Python](https://github.com/mertayaar/git_readme/blob/main/images/pyh.svg)
-![Java](https://github.com/mertayaar/git_readme/blob/main/images/java.svg)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++]()
 
 ## Api Test
-![Postman](https://github.com/mertayaar/git_readme/blob/main/images/postman.svg)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## IDE
-![Visual Studio](https://github.com/mertayaar/git_readme/blob/main/images/visual%20studio.svg)
-![Visual Studio Code](https://github.com/mertayaar/git_readme/blob/main/images/visual%20studio%20code.svg)
-![Android Studio](https://github.com/mertayaar/git_readme/blob/main/images/androidstudio.svg)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ## OS
-![Windows](https://github.com/mertayaar/git_readme/blob/main/images/windows.svg)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Version Control
 ![Git]()
 
 ## Contact 
-[![Gmail](https://github.com/mertayaar/git_readme/blob/main/images/gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=codechno@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=codechno@gmail.com)
+[![İnstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertayaar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tupacalypz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/mertayaar/)
 
 
-- 📫 How to reach me ...
-
-<!---
-mertayaar/mertayaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

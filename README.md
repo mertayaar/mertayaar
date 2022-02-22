@@ -53,6 +53,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tupacalypz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertayaar/)
 
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mertayaar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/mertayaar?trk=profile-badge">Mert Ayar</a></div>
               
 

@@ -1,21 +1,25 @@
-- 👋 Hi, I’m **Mert AYAR**
-## I'm currently working on
+# 👋 Hi, I’m **Mert AYAR**
+**Software Engineer & QA Automation Engineer**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ## Google Play Developer Page
 [![Google Play](https://img.shields.io/badge/Google_Play-0175C2?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8661979251329014314)
 
 ## Testing
-![Selenium](https://img.shields.io/badge/Selenium-3670A0?style=for-the-badge&logo=selenium&logoColor=ffdd54)
-![cypress](https://img.shields.io/badge/cypress-00599C?style=for-the-badge&logo=cypress&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-02569B?style=for-the-badge&logo=Cucumber&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![cypress](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-FFFFFF?style=for-the-badge&logo=Cucumber&logoColor=7CFC00)
 ![TestNG](https://img.shields.io/badge/TestNG-0175C2?style=for-the-badge&logo=TestNG&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-FFFFFF?style=for-the-badge&logo=apache&logoColor=red)
 ![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=JUnit5&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-000000?style=for-the-badge&logo=rest&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/JDBC-3670A0?style=for-the-badge&logo=java8&logoColor=white)
+
+
 ## Skills
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
@@ -55,6 +59,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ## Version Control
 ![Git]()
 

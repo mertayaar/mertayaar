@@ -15,9 +15,11 @@
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-FFFFFF?style=for-the-badge&logo=apache&logoColor=red)
-![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=JUnit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=JUnit5&logoColor=red)
+![POI](https://img.shields.io/badge/Apache%20POI-FFFFFF?style=for-the-badge&logo=apache&logoColor=red)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-000000?style=for-the-badge&logo=rest&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/JDBC-3670A0?style=for-the-badge&logo=java8&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-3670A0?style=for-the-badge&logo=java8&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-64D7F0?style=for-the-badge&logo=Appium&logoColor=white)
 
 
 ## Skills
@@ -25,9 +27,12 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Mobile Design (I'm currently learning)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -39,11 +44,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
-
-## Api Test
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
 ## Hobbies
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
@@ -53,13 +53,13 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-
+![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+	
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MacOS](https://img.shields.io/badge/MacOS-FFFFFF?style=for-the-badge&logo=MacOS&logoColor=black)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ## Version Control
 ![Git]()
 

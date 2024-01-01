@@ -3,8 +3,7 @@
 
 ## I'm currently learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
+<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mertayaar/mertayaar/assets/50061565/644fef49-1a5c-4164-93b8-14f0b759152e" alt="csharp" width="50" height="50"/> </a>
 ## Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)

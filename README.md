@@ -2,10 +2,6 @@
 **Software Engineer & QA Automation Engineer**
 
 
-
-## Google Play Developer Page
-[![Google Play](https://img.shields.io/badge/Google_Play-0175C2?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8661979251329014314)
-
 ## Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
